@@ -1,0 +1,1 @@
+var test="test",lastName="this",fullName="Bob "+lastName;
